@@ -1,2 +1,20 @@
 # MDAD-Net
-Ultrasound breast tumor segmentation model
+MDAD-Net forUltrasound breast tumor segmentation model. still being organized and updated
+Python 3.10
+PyTorch 2.1
+pyqt5-sip==12.11.0
+pyqt5==5.15.2
+scipy==1.10.1
+matplotlib==3.7.5
+opencv_python==4.10.0.84
+tqdm==4.67.1
+Pillow==8.4.0
+h5py== 3.11.0
+numpy==1.23.1
+setuptools==59.5.0
+pillow==8.4.0
+timm==1.0.7
+scikit-learn>=1.0.0
+seaborn>=0.11.0
+Or you can install the required packages using pip:
+pip install -r requirements.txt
